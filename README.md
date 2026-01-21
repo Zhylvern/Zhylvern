@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi!
 
-<!--
-**Zhylvern/Zhylvern** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I code for fun.  
 
-Here are some ideas to get you started:
+### My Public Project:
+- [OpenCount](https://addons.mozilla.org/en-US/firefox/addon/opencount/) – A lightweight browser extension that tracks visit counts and active time by domain. Because sometimes, you just need to know how much time you’re wasting.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Check Out My Site:
+- [Littlebranch PH](https://www.littlebranchph.com/) – A platform for kids' activities in the Philippines.
+
+### Skills:
+- ☕ Drinking coffee (and pretending it's doing something productive)
+- 💤 Lacking sleep (but still pushing through)
+- 💧 Drinking water (because hydration is important, I guess)
+
+P.S. If you think I know what I'm doing... I probably don’t, but it works!
